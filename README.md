@@ -27,7 +27,7 @@ Before running this project, make sure you have the following installed on your 
 1. Open your terminal or command prompt.
 2. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-repository-url.git
+   git clone https://github.com/IzziVanSatoru/necturnal-shop-v1.git
    ```
    3.
     ```bash
@@ -49,27 +49,8 @@ Before running this project, make sure you have the following installed on your 
 2. Open the project folder and navigate to the `contact.php` file.
 3. Start your local server, then open a browser and navigate to:
    ```
-   http://localhost/your-project-folder/contact.php
+   http://localhost/necturnal-shop-v1/index.php
    ```
-
-### Step 5: Test the Contact Form
-1. Fill in the form fields (Name, Email, Message).
-2. Press **Send Message**.
-3. If the form is successfully submitted, you will see a success message. Otherwise, you will see an error message if any field is missing.
-
-## File Structure
-
-```bash
-your-project-folder/
-├── contact.php          # Main page with PHP form handler
-├── assets/
-│   └── css/
-│       └── style.css    # Custom CSS for styling the page
-├── includes/
-│   ├── navbar.php       # Navbar component (if used)
-│   └── footer.php       # Footer component (if used)
-└── README.md            # Project documentation
-```
 
 ## Customization
 - **Theme Colors**: You can customize the colors by editing the CSS styles in `style.css`.
